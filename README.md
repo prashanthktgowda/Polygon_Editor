@@ -1,6 +1,3 @@
-Here's an example of a `README.md` file for your Polygon Editor project:
-
-```markdown
 # Polygon Editor - Three.js Application
 
 ## Overview
@@ -38,45 +35,33 @@ To run the Polygon Editor locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/prashanthktgowda/Polygon_Editor.git
-   ```
+Open the project:
 
-2. **Open the project**:
-   - Navigate to the `Polygon_Editor` directory and open the `index.html` file in a modern web browser (e.g., Google Chrome, Mozilla Firefox).
+Navigate to the Polygon_Editor directory and open the index.html file in a modern web browser (e.g., Google Chrome, Mozilla Firefox).
+Interact with the editor:
 
-3. **Interact with the editor**:
-   - Click on the ground plane to add vertices and create polygons.
-   - Click "Complete Shape" to finish a polygon.
-   - Duplicate polygons by clicking "Copy Polygon" and dragging them to a new position.
-   - Use "Reset Canvas" to clear the scene.
+Click on the ground plane to add vertices and create polygons.
+Click "Complete Shape" to finish a polygon.
+Duplicate polygons by clicking "Copy Polygon" and dragging them to a new position.
+Use "Reset Canvas" to clear the scene.
+Screenshots
+Caption: Drawing a polygon by adding vertices.
+![image](https://github.com/user-attachments/assets/2976b759-4c62-4806-b525-6e6ab0595002)
 
-## Screenshots
+![image](https://github.com/user-attachments/assets/323f2855-62fd-4329-a61a-c7d1e24bd069)
 
-![Drawing a Polygon](./screenshots/drawing_polygon.png)
-*Caption: Drawing a polygon by adding vertices.*
+Caption: Duplicating and placing a polygon on the grid.
 
-![Duplicating a Polygon](./screenshots/duplicating_polygon.png)
-*Caption: Duplicating and placing a polygon on the grid.*
-
-## Future Enhancements
-
-- **Undo/Redo Functionality**: Allow users to undo or redo actions for more flexible editing.
-- **Polygon Editing**: Enable editing of existing polygons by moving vertices or adding new ones.
-- **Export/Import Polygons**: Allow users to export polygons as JSON files and import them for further modification.
-- **3D Extrusion**: Support 3D extrusion of polygons for creating more complex shapes.
-
-## References
-
-- [Three.js Documentation](https://threejs.org/docs/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-
-## License
-
+Future Enhancements
+Undo/Redo Functionality: Allow users to undo or redo actions for more flexible editing.
+Polygon Editing: Enable editing of existing polygons by moving vertices or adding new ones.
+Export/Import Polygons: Allow users to export polygons as JSON files and import them for further modification.
+3D Extrusion: Support 3D extrusion of polygons for creating more complex shapes.
+References
+Three.js Documentation
+MDN Web Docs
+License
 This project is licensed under the MIT License.
 
----
-
-**Author**:Prashantha K T  
-**GitHub Repository**: [Polygon Editor GitHub](https://github.com/prashanthktgowda/Polygon_Editor)
-```
-
-This `README.md` file provides an overview of the project, installation instructions, and details about key features, technologies used, and future improvements. It also includes placeholders for screenshots and provides a section for the project's license and author information.
+Author: Prashantha K T
+GitHub Repository: Polygon Editor GitHub
